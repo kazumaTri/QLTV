@@ -1,0 +1,19 @@
+D:\CODE\QuanLyThuVien\BUS\bin\Debug\net8.0\BUS.deps.json
+D:\CODE\QuanLyThuVien\BUS\bin\Debug\net8.0\BUS.dll
+D:\CODE\QuanLyThuVien\BUS\bin\Debug\net8.0\BUS.pdb
+D:\CODE\QuanLyThuVien\BUS\bin\Debug\net8.0\DAL.dll
+D:\CODE\QuanLyThuVien\BUS\bin\Debug\net8.0\DTO.dll
+D:\CODE\QuanLyThuVien\BUS\bin\Debug\net8.0\Project PasswordHasher.dll
+D:\CODE\QuanLyThuVien\BUS\bin\Debug\net8.0\DAL.pdb
+D:\CODE\QuanLyThuVien\BUS\bin\Debug\net8.0\DTO.pdb
+D:\CODE\QuanLyThuVien\BUS\bin\Debug\net8.0\Project PasswordHasher.pdb
+D:\CODE\QuanLyThuVien\BUS\obj\Debug\net8.0\BUS.csproj.AssemblyReference.cache
+D:\CODE\QuanLyThuVien\BUS\obj\Debug\net8.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\QuanLyThuVien\BUS\obj\Debug\net8.0\BUS.AssemblyInfoInputs.cache
+D:\CODE\QuanLyThuVien\BUS\obj\Debug\net8.0\BUS.AssemblyInfo.cs
+D:\CODE\QuanLyThuVien\BUS\obj\Debug\net8.0\BUS.csproj.CoreCompileInputs.cache
+D:\CODE\QuanLyThuVien\BUS\obj\Debug\net8.0\BUS.csproj.Up2Date
+D:\CODE\QuanLyThuVien\BUS\obj\Debug\net8.0\BUS.dll
+D:\CODE\QuanLyThuVien\BUS\obj\Debug\net8.0\refint\BUS.dll
+D:\CODE\QuanLyThuVien\BUS\obj\Debug\net8.0\BUS.pdb
+D:\CODE\QuanLyThuVien\BUS\obj\Debug\net8.0\ref\BUS.dll

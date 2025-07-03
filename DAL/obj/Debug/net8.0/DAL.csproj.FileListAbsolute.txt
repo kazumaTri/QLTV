@@ -1,0 +1,17 @@
+D:\CODE\QuanLyThuVien\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\CODE\QuanLyThuVien\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+D:\CODE\QuanLyThuVien\DAL\bin\Debug\net8.0\DAL.dll
+D:\CODE\QuanLyThuVien\DAL\bin\Debug\net8.0\DAL.pdb
+D:\CODE\QuanLyThuVien\DAL\bin\Debug\net8.0\DTO.dll
+D:\CODE\QuanLyThuVien\DAL\bin\Debug\net8.0\DTO.pdb
+D:\CODE\QuanLyThuVien\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\CODE\QuanLyThuVien\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\QuanLyThuVien\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\CODE\QuanLyThuVien\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\CODE\QuanLyThuVien\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\CODE\QuanLyThuVien\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+D:\CODE\QuanLyThuVien\DAL\obj\Debug\net8.0\DAL.dll
+D:\CODE\QuanLyThuVien\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\CODE\QuanLyThuVien\DAL\obj\Debug\net8.0\DAL.pdb
+D:\CODE\QuanLyThuVien\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+D:\CODE\QuanLyThuVien\DAL\obj\Debug\net8.0\ref\DAL.dll

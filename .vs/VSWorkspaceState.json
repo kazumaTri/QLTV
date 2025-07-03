@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BUS",
+    "\\DAL",
+    "\\DAL\\Migrations",
+    "\\DTO",
+    "\\GUI",
+    "\\Project PasswordHasher"
+  ],
+  "SelectedNode": "\\DAL\\Migrations\\20250430094815_AddThongBaoTable.Designer.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmDanhSachCuonSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLichSuMuonTra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ucCaiDat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucQuanLyCuonSach.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucQuanLyDocGia.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucQuanLyLoaiDocGia.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucQuanLyNguoiDung.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucQuanLyNhapSach.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucQuanLyNhaXuatBan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucQuanLyNhomNguoiDung.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucQuanLyPhieuMuonTra.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucQuanLySach.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucQuanLyTacGia.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucQuanLyTheLoai.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucQuanLyThongBao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucQuanLyTuaSach.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucThongKe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucTrangChu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
